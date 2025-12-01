@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "MSc Engineering Management",
+      "institution": "The University of Texas at Arlington",
+      "period": "",
+      "description": "MSc Engineering Management",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "degree": "BSc Electronics & Telecommunication Engineering",
+      "institution": "NMIMS University",
+      "period": "",
+      "description": "BSc Electronics & Telecommunication Engineering",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

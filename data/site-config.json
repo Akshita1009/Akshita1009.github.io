@@ -1,0 +1,13 @@
+{
+  "title": "Akshita Mary John - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "Akshita Mary John",
+  "keywords": "Product Roadmaps, Release Planning, Backlog Prioritization, User Stories, Acceptance Criteria, Requirements Gathering, Product Lifecycle Management, API Integrations, A/B Testing, Voice of Customer Analysis, Scrum & Agile Methodologies, Sprint Planning, Backlog Refinement, Scrum Ceremonies, Cross-Functional Collaboration, Capacity Planning, Risk & Issue Management, Stakeholder Alignment, Client Onboarding, Post-Implementation Support, Feature Adoption Metrics, Feedback Analysis, CRM, Stakeholder Communication, Upsell/Expansion Opportunities, SQL, Power BI, KPI Dashboards, Reporting & Forecasting, Data Validation, Product Insights, Java, Python, JavaScript, CSS, Jira, Confluence, Asana, Miro, MS Project",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}

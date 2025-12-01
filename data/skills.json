@@ -1,0 +1,55 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-code",
+      "color": "#667eea",
+      "skills": [
+        "Product Roadmaps",
+        "Release Planning",
+        "Backlog Prioritization",
+        "User Stories",
+        "Acceptance Criteria",
+        "Requirements Gathering",
+        "Product Lifecycle Management",
+        "API Integrations",
+        "A/B Testing",
+        "Voice of Customer Analysis",
+        "Scrum & Agile Methodologies",
+        "Sprint Planning",
+        "Backlog Refinement",
+        "Scrum Ceremonies",
+        "Cross-Functional Collaboration",
+        "Capacity Planning",
+        "Risk & Issue Management",
+        "Stakeholder Alignment",
+        "Client Onboarding",
+        "Post-Implementation Support",
+        "Feature Adoption Metrics",
+        "Feedback Analysis",
+        "CRM",
+        "Stakeholder Communication",
+        "Upsell/Expansion Opportunities",
+        "SQL",
+        "Power BI",
+        "KPI Dashboards",
+        "Reporting & Forecasting",
+        "Data Validation",
+        "Product Insights"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "icon": "fas fa-tools",
+      "color": "#764ba2",
+      "skills": [
+        "Jira",
+        "Confluence",
+        "Asana",
+        "Miro",
+        "MS Project"
+      ]
+    }
+  ]
+}

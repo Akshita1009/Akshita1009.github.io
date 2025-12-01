@@ -1,0 +1,146 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "Product Team Lead, Engineering Management Case study simulation",
+      "description": "Led a 6-member team to launch a mid-tier laptop from concept to production, Achieving a 15% reduction in lead time\nDelivered the project 10% under budget and Managed product lifecycle across requirements, design, sourcing, and QA.\nDeveloped a project plan in MS Project covering 5 major phases, tracking 30+ deliverables across a 16-week timeline",
+      "color": "#667eea",
+      "icon": "fas fa-project-diagram",
+      "technologies": [],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "Brand Audit, Fossil Watches",
+      "description": "Conducted a brand audit and analyzed 100+ reviews, 3 competitors, and 5 equity pillars to identify brand perception gaps\nBuilt a brand definition and mental map using 15 in-depth interviews and laddering to identify key value drivers\nProposed 10% price repositioning, refined digital strategy, and a Gen Z-focused engagement roadmap in a Strategic Report",
+      "color": "#764ba2",
+      "icon": "fas fa-project-diagram",
+      "technologies": [],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "ai-renamer",
+      "description": "Interactive application built for continuous learning",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Akshita1009/ai-renamer",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "live-streamlit-dashboard-python",
+      "description": "Modern web application demonstrating clean code principles",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Akshita1009/live-streamlit-dashboard-python",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "customer-trends-data-analysis-sql-python-powerbi",
+      "description": "Comprehensive project exploring software design patterns",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Akshita1009/customer-trends-data-analysis-sql-python-powerbi",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "cohort_analysis",
+      "description": "Educational project for mastering software architecture",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Akshita1009/cohort_analysis",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "user-story-best-practice",
+      "description": "Hands-on learning experience with modern frameworks",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "SCSS",
+        "HTML",
+        "CSS",
+        "Python",
+        "Ruby",
+        "Shell"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Akshita1009/user-story-best-practice",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    }
+  ]
+}

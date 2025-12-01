@@ -1,0 +1,23 @@
+{
+  "tagline": "Building the future, one line of code at a time.",
+  "socialLinks": [
+    {
+      "url": "https://www.linkedin.com/in/akshita-mary-john-6a0544114/",
+      "platform": "LinkedIn",
+      "icon": "fab fa-linkedin"
+    }
+  ],
+  "copyright": {
+    "text": "© 2025 Akshita Mary John. All rights reserved."
+  },
+  "links": [
+    {
+      "href": "#",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "#",
+      "text": "Terms of Service"
+    }
+  ]
+}

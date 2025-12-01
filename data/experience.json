@@ -1,0 +1,47 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "Product Owner",
+      "company": "Tata Consultancy Services",
+      "location": "",
+      "period": "March 2021 – July 2023",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "description": "Owned roadmap and release cycles for a multi-institution admissions SaaS platform serving 20,000+ students across 300+ institutions.\nTranslated complex business and customer requirements into 100+ detailed user stories, acceptance criteria, and technical workflows.\nDrove cross-functional alignment with dev, QA, and architects to refine features and strengthen testing, reducing deployment delays by 20%.\nLed Agile ceremonies across 50+ sprints, boosting team alignment, improving velocity by 12%, and sustaining 95% on-time delivery.\nExecuted A/B tests on feature launches to guide smarter data-driven prioritization, improving customer engagement by 15%.\nUsed Jira, SQL, and Power BI to track KPIs, resolve bottlenecks, and streamline workflows, accelerating time-to-market by 30%.\nCoordinated onboarding for new institutions by overseeing configuration and contracts, ensuring seamless rollout and rapid client adoption.",
+      "responsibilities": [],
+      "technologies": [
+        "Jira",
+        "SQL",
+        "Power BI"
+      ]
+    },
+    {
+      "title": "System Analyst",
+      "company": "Tata Consultancy Services",
+      "location": "",
+      "period": "October 2020 – March 2021",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "description": "Gathered and translated technical requirements from 10+ institutions into detailed system workflows and process models for a national student ranking platform, cut requirement misinterpretations by 25% by conducting requirement walkthroughs and prototype reviews.\nCollaborated with QA and client teams on testing, validation, and debugging resolving critical features and improving data accuracy by 28%\nAuthored process documentation and user guides to support smooth adoption boosting user satisfaction scores by 10%.\nDeveloped backend logic in Java and integrated UI components, accelerating MVP launch by 1 month.",
+      "responsibilities": [],
+      "technologies": [
+        "Java"
+      ]
+    },
+    {
+      "title": "Functional Testing Intern",
+      "company": "Siemens Pvt Ltd",
+      "location": "",
+      "period": "June 2018 - August 2018",
+      "type": "Full-time",
+      "color": "#f093fb",
+      "icon": "fas fa-briefcase",
+      "description": "Executed 50+ functional and regression test cases for enterprise software, identifying critical defects and improving release quality by 15%.\nPerformed end-to-end workflow testing and documented results, increasing test coverage accuracy by 12%.\nAssisted in test data preparation and environment setup, reducing testing delays by 25% and ensuring smooth execution of test cycle",
+      "responsibilities": [],
+      "technologies": []
+    }
+  ]
+}
