@@ -2,6 +2,22 @@
   "sectionTitle": "Work Experience",
   "experiences": [
     {
+      "title": "Graduate Student Operations Assistant",
+      "company": "University of Texas at Arlington | Maverick Activities Center",
+      "location": "Texas, USA",
+      "period": "April 2024 – May 2025",
+      "type": "Part-time",
+      "color": "#4ECDC4",
+      "icon": "fas fa-university",
+      "description": "Acted as a primary liaison between graduate students, faculty, and administrative teams, gathering operational requirements, resolving issues, and improving service delivery across campus programs.\nSupported planning and execution of large-scale student activities and events by coordinating resources, managing schedules, and ensuring compliance with operational and safety protocols.\nUsed scheduling and operations systems (Fusion and related tools) to track attendance, maintain accurate records, and generate insights that informed staffing and operational decisions.\nIdentified process gaps in event operations and service coordination, contributing to workflow improvements that enhanced efficiency and reduced on-site issues.\nCollaborated with cross-functional teams to ensure smooth end-to-end execution of activities, balancing stakeholder needs and operational constraints.",
+      "responsibilities": [],
+      "technologies": [
+        "Fusion",
+        "Scheduling Systems",
+        "Operations Management"
+      ]
+    },
+    {
       "title": "Product Owner",
       "company": "Tata Consultancy Services",
       "location": "",
