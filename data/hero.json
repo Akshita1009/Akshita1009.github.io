@@ -3,7 +3,7 @@
   "name": "Akshita Mary John",
   "title": "Product Owner",
   "tagline": "Driving product success through data-driven decisions",
-  "summary": "Welcome to my portfolio",
+  "summary": "",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
@@ -13,12 +13,17 @@
     {
       "icon": "fas fa-project-diagram",
       "color": "#764ba2",
-      "text": "7+ Projects Completed"
+      "text": "Product Ownership & Delivery"
     },
     {
-      "icon": "fas fa-code",
+      "icon": "fas fa-graduation-cap",
+      "color": "#4ECDC4",
+      "text": "M.S. Engineering Management"
+    },
+    {
+      "icon": "fas fa-certificate",
       "color": "#f093fb",
-      "text": "40+ Technologies"
+      "text": "Certified: CSPO | IBM AI PM | Unilever DMA"
     }
   ],
   "cta": {
@@ -39,7 +44,7 @@
   },
   "socialLinks": [
     {
-      "url": "https://www.linkedin.com/in/akshita-mary-john-6a0544114/",
+      "url": "https://www.linkedin.com/in/akshita-john",
       "platform": "LinkedIn",
       "icon": "fab fa-linkedin"
     }

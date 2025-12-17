@@ -2,19 +2,27 @@
   "sectionTitle": "Work Experience",
   "experiences": [
     {
-      "title": "Graduate Student Operations Assistant",
+      "title": "Graduate Student Assistant",
       "company": "University of Texas at Arlington | Maverick Activities Center",
       "location": "Texas, USA",
       "period": "April 2024 – May 2025",
       "type": "Part-time",
       "color": "#4ECDC4",
       "icon": "fas fa-university",
-      "description": "Acted as a primary liaison between graduate students, faculty, and administrative teams, gathering operational requirements, resolving issues, and improving service delivery across campus programs.\nSupported planning and execution of large-scale student activities and events by coordinating resources, managing schedules, and ensuring compliance with operational and safety protocols.\nUsed scheduling and operations systems (Fusion and related tools) to track attendance, maintain accurate records, and generate insights that informed staffing and operational decisions.\nIdentified process gaps in event operations and service coordination, contributing to workflow improvements that enhanced efficiency and reduced on-site issues.\nCollaborated with cross-functional teams to ensure smooth end-to-end execution of activities, balancing stakeholder needs and operational constraints.",
-      "responsibilities": [],
+      "description": "As a Graduate Student I supported the delivery of campus services by acting as a primary point of contact for students, staff, and administrators. I focused on understanding student needs, resolving service issues, and coordinating operational workflows to improve service reliability and experience. This role strengthened my skills in customer engagement, cross-functional coordination, and service optimization.",
+      "responsibilities": [
+        "Served as a frontline point of contact for 100+ students per week, resolving inquiries and issues related to campus services and activities.",
+        "Coordinated schedules, resources, and on-site staff for multiple weekly programs, improving operational flow and reducing on-site issues during events.",
+        "Used scheduling and operations systems to track attendance and service usage, supporting more accurate staffing decisions and smoother daily operations.",
+        "Recognized with the Outstanding Student Employee Award for consistent customer focus, reliability, and operational excellence."
+      ],
       "technologies": [
-        "Fusion",
-        "Scheduling Systems",
-        "Operations Management"
+        "Customer Experience & Issue Resolution",
+        "Voice of Customer & Feedback Analysis",
+        "Stakeholder Coordination",
+        "Operations & Service Optimization",
+        "Data Tracking & Operational Reporting",
+        "Cross-Functional Communication"
       ]
     },
     {
@@ -25,12 +33,24 @@
       "type": "Full-time",
       "color": "#667eea",
       "icon": "fas fa-briefcase",
-      "description": "Owned roadmap and release cycles for a multi-institution admissions SaaS platform serving 20,000+ students across 300+ institutions.\nTranslated complex business and customer requirements into 100+ detailed user stories, acceptance criteria, and technical workflows.\nDrove cross-functional alignment with dev, QA, and architects to refine features and strengthen testing, reducing deployment delays by 20%.\nLed Agile ceremonies across 50+ sprints, boosting team alignment, improving velocity by 12%, and sustaining 95% on-time delivery.\nExecuted A/B tests on feature launches to guide smarter data-driven prioritization, improving customer engagement by 15%.\nUsed Jira, SQL, and Power BI to track KPIs, resolve bottlenecks, and streamline workflows, accelerating time-to-market by 30%.\nCoordinated onboarding for new institutions by overseeing configuration and contracts, ensuring seamless rollout and rapid client adoption.",
-      "responsibilities": [],
+      "description": "As a Product Owner, I partnered with business stakeholders, engineering, and QA teams to translate complex requirements into prioritized backlogs and reliable releases. I supported end-to-end delivery by refining user stories, facilitating Agile ceremonies, and coordinating releases across multiple institutions. My focus was on improving requirement clarity, delivery predictability, and feature adoption in a multi-stakeholder environment.",
+      "responsibilities": [
+        "Owned Product Roadmap and Delivery for a platform used by 20,000+ users across 300+ institutions.",
+        "Reduced requirement ambiguity by ~25% through structured stakeholder workshops and clearer documentation.",
+        "Drove a 15% improvement in feature adoption by managing and refining 100+ user stories with strong acceptance criteria.",
+        "Improved team velocity by 12% and sustained 95% on-time delivery across 50+ Agile sprints.",
+        "Reduced deployment delays by 20% through improved requirement clarity and test readiness.",
+        "Built KPI dashboards using Jira, SQL, and Power BI to track adoption, engagement, and release performance.",
+        "Coordinated end-to-end releases and onboarding for new institutions, achieving a ~90% successful rollout rate."
+      ],
       "technologies": [
-        "Jira",
-        "SQL",
-        "Power BI"
+        "Product Roadmapping & Release Planning",
+        "Backlog Prioritization & User Stories",
+        "Requirements Gathering & Refinement",
+        "Agile Delivery & Sprint Execution",
+        "Stakeholder Alignment & Communication",
+        "Feature Adoption & Product Metrics",
+        "Data-Informed Decision Making (SQL, Power BI)"
       ]
     },
     {
@@ -41,10 +61,20 @@
       "type": "Full-time",
       "color": "#764ba2",
       "icon": "fas fa-briefcase",
-      "description": "Gathered and translated technical requirements from 10+ institutions into detailed system workflows and process models for a national student ranking platform, cut requirement misinterpretations by 25% by conducting requirement walkthroughs and prototype reviews.\nCollaborated with QA and client teams on testing, validation, and debugging resolving critical features and improving data accuracy by 28%\nAuthored process documentation and user guides to support smooth adoption boosting user satisfaction scores by 10%.\nDeveloped backend logic in Java and integrated UI components, accelerating MVP launch by 1 month.",
-      "responsibilities": [],
+      "description": "As a System Analyst, I supported requirement gathering, functional documentation, and system validation for a multi-institution platform. I worked closely with stakeholders and engineering teams to translate business needs into system-level requirements and supported testing activities to ensure reliable feature delivery.",
+      "responsibilities": [
+        "Gathered and documented business and system requirements, ensuring consistent stakeholder alignment.",
+        "Translated complex system behavior into clear functional documentation, reducing rework by 15%.",
+        "Supported testing and validation cycles, contributing to a 98% test pass rate prior to release.",
+        "Analyzed data workflows to identify gaps and improve operational efficiency across institutions."
+      ],
       "technologies": [
-        "Java"
+        "Requirements Analysis & Functional Documentation",
+        "Business Process & System Mapping",
+        "Stakeholder Communication",
+        "Data Validation & Workflow Analysis",
+        "Testing & Release Support",
+        "Cross-Team Collaboration"
       ]
     },
     {
@@ -55,9 +85,19 @@
       "type": "Full-time",
       "color": "#f093fb",
       "icon": "fas fa-briefcase",
-      "description": "Executed 50+ functional and regression test cases for enterprise software, identifying critical defects and improving release quality by 15%.\nPerformed end-to-end workflow testing and documented results, increasing test coverage accuracy by 12%.\nAssisted in test data preparation and environment setup, reducing testing delays by 25% and ensuring smooth execution of test cycle",
-      "responsibilities": [],
-      "technologies": []
+      "description": "As a Functional Testing Intern at Siemens, I supported quality assurance activities for enterprise software by executing functional and regression tests across core workflows. I worked closely with QA and engineering teams to validate system behavior, document defects, and ensure release readiness. This role strengthened my understanding of system reliability, quality standards, and end-to-end product workflows.",
+      "responsibilities": [
+        "Executed 50+ functional and regression test cases, identifying critical defects and improving overall release quality by ~15%.",
+        "Performed end-to-end workflow testing and documented results, increasing test coverage accuracy by ~12%.",
+        "Assisted with test data preparation and environment setup, reducing testing delays by ~25% and supporting smoother test cycles."
+      ],
+      "technologies": [
+        "Functional & Regression Testing",
+        "End-to-End Workflow Validation",
+        "Defect Identification & Documentation",
+        "Quality Assurance & Release Readiness",
+        "QA–Engineering Collaboration"
+      ]
     }
   ]
 }

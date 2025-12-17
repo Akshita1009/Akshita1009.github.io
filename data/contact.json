@@ -5,8 +5,8 @@
     {
       "type": "email",
       "label": "Email",
-      "value": "a.john1009@gmail.com",
-      "href": "mailto:a.john1009@gmail.com",
+      "value": "akshitamaryjohn@gmail.com",
+      "href": "mailto:akshitamaryjohn@gmail.com",
       "icon": "fas fa-envelope",
       "color": "#667eea"
     },
@@ -21,7 +21,7 @@
     {
       "type": "location",
       "label": "Location",
-      "value": "Arlington, Texas",
+      "value": "USA",
       "href": "#",
       "icon": "fas fa-map-marker-alt",
       "color": "#f093fb"
@@ -70,11 +70,5 @@
     "successMessage": "Thank you! Your message has been sent successfully.",
     "errorMessage": "Oops! Something went wrong. Please try again."
   },
-  "socialMedia": [
-    {
-      "url": "https://www.linkedin.com/in/akshita-mary-john-6a0544114/",
-      "platform": "LinkedIn",
-      "icon": "fab fa-linkedin"
-    }
-  ]
+  "socialMedia": []
 }

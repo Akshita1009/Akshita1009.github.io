@@ -1,28 +1,10 @@
 {
   "sectionTitle": "About Me",
   "paragraphs": [
-    "I am a passionate developer with a strong background in building innovative solutions."
+    "I am a Product Owner with 3+ years of experience working at the intersection of business, technology, and user needs. I specialize in translating complex requirements into clear backlogs, prioritizing what matters, and enabling teams to deliver predictable outcomes in multi-stakeholder environments.",
+    "I hold a Master's degree in Engineering Management with a specialization in Product Management, and I'm certified as a Certified Scrum Product Owner (CSPO), IBM AI Product Manager, and Unilever Digital Marketing Analyst. I enjoy leveraging structured product thinking and data to drive informed decisions and measurable impact."
   ],
-  "statistics": [
-    {
-      "icon": "fas fa-briefcase",
-      "color": "#667eea",
-      "value": "3+",
-      "label": "Years Experience"
-    },
-    {
-      "icon": "fas fa-project-diagram",
-      "color": "#764ba2",
-      "value": "7+",
-      "label": "Projects"
-    },
-    {
-      "icon": "fas fa-code",
-      "color": "#f093fb",
-      "value": "40+",
-      "label": "Technologies"
-    }
-  ],
+  "statistics": [],
   "downloadCV": {
     "href": "/resume.pdf",
     "icon": "fas fa-download",

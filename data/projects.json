@@ -2,11 +2,15 @@
   "sectionTitle": "Featured Projects",
   "projects": [
     {
-      "title": "Product Team Lead, Engineering Management Case study simulation",
-      "description": "Led a 6-member team to launch a mid-tier laptop from concept to production, Achieving a 15% reduction in lead time\nDelivered the project 10% under budget and Managed product lifecycle across requirements, design, sourcing, and QA.\nDeveloped a project plan in MS Project covering 5 major phases, tracking 30+ deliverables across a 16-week timeline",
+      "title": "Product Planning & Delivery Simulation - Product Team Lead",
+      "description": "Led a cross-functional team through end-to-end product planning, from requirements definition to launch readiness, delivering the project on time. Applied gap and impact assessments to reduce projected lead time by 15% and strengthen delivery planning.",
       "color": "#667eea",
       "icon": "fas fa-project-diagram",
-      "technologies": [],
+      "technologies": [
+        "MS Project",
+        "Product Planning",
+        "Team Leadership"
+      ],
       "keyFeatures": [],
       "projectType": "",
       "highlight": "",
@@ -17,11 +21,15 @@
       "stats": {}
     },
     {
-      "title": "Brand Audit, Fossil Watches",
-      "description": "Conducted a brand audit and analyzed 100+ reviews, 3 competitors, and 5 equity pillars to identify brand perception gaps\nBuilt a brand definition and mental map using 15 in-depth interviews and laddering to identify key value drivers\nProposed 10% price repositioning, refined digital strategy, and a Gen Z-focused engagement roadmap in a Strategic Report",
+      "title": "Product & Market Analysis - Consumer Retail Brand (Fossil Watches)",
+      "description": "Conducted a comprehensive product and brand analysis using customer insights, competitor benchmarks, and brand equity frameworks. Synthesized findings into actionable recommendations for pricing, digital engagement, and feature positioning.",
       "color": "#764ba2",
       "icon": "fas fa-project-diagram",
-      "technologies": [],
+      "technologies": [
+        "Brand Analysis",
+        "Market Research",
+        "Strategic Planning"
+      ],
       "keyFeatures": [],
       "projectType": "",
       "highlight": "",
@@ -32,12 +40,14 @@
       "stats": {}
     },
     {
-      "title": "ai-renamer",
+      "title": "AI-Powered File Renaming Tool",
       "description": "An AI-powered file renaming tool that uses machine learning to intelligently suggest and apply meaningful file names based on content analysis.",
       "color": "#f093fb",
       "icon": "fab fa-github",
       "technologies": [
-        "JavaScript"
+        "JavaScript",
+        "Machine Learning",
+        "Automation"
       ],
       "keyFeatures": [],
       "projectType": "",
@@ -53,12 +63,14 @@
       }
     },
     {
-      "title": "live-streamlit-dashboard-python",
+      "title": "Real-Time Interactive Analytics Dashboard",
       "description": "A real-time interactive dashboard built with Python and Streamlit for data visualization and analytics, featuring live data updates and customizable charts.",
       "color": "#4facfe",
       "icon": "fab fa-github",
       "technologies": [
-        "Python"
+        "Python",
+        "Streamlit",
+        "Data Visualization"
       ],
       "keyFeatures": [],
       "projectType": "",
@@ -74,11 +86,14 @@
       }
     },
     {
-      "title": "customer-trends-data-analysis-sql-python-powerbi",
+      "title": "Customer Trends Data Analysis Pipeline",
       "description": "End-to-end data analysis project analyzing customer behavior trends using SQL for data extraction, Python for processing, and Power BI for interactive visualizations.",
       "color": "#667eea",
       "icon": "fab fa-github",
       "technologies": [
+        "SQL",
+        "Python",
+        "Power BI",
         "Jupyter Notebook"
       ],
       "keyFeatures": [],
@@ -95,11 +110,13 @@
       }
     },
     {
-      "title": "cohort_analysis",
+      "title": "Customer Cohort Retention Analysis",
       "description": "Customer cohort analysis project that segments users by acquisition date to track retention rates, lifetime value, and behavioral patterns over time.",
       "color": "#764ba2",
       "icon": "fab fa-github",
       "technologies": [
+        "Python",
+        "Data Analysis",
         "Jupyter Notebook"
       ],
       "keyFeatures": [],
@@ -116,18 +133,14 @@
       }
     },
     {
-      "title": "user-story-best-practice",
+      "title": "Agile User Story Best Practices Guide",
       "description": "A comprehensive guide and template repository demonstrating best practices for writing effective user stories in Agile product development.",
       "color": "#f093fb",
       "icon": "fab fa-github",
       "technologies": [
-        "JavaScript",
-        "SCSS",
-        "HTML",
-        "CSS",
-        "Python",
-        "Ruby",
-        "Shell"
+        "Agile",
+        "Product Management",
+        "Documentation"
       ],
       "keyFeatures": [],
       "projectType": "",

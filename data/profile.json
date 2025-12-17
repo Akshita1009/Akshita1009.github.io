@@ -1,19 +1,18 @@
 {
   "profile": {
-    "name": "Alex Rivera",
-    "title": "Creative Developer & Digital Designer",
-    "bio": "Crafting beautiful digital experiences at the intersection of design and code."
+    "name": "Akshita Mary John",
+    "title": "Product Owner",
+    "bio": "Driving product success through data-driven decisions"
   },
   "contact": {
-    "email": "alex.rivera@email.com",
-    "phone": "+1 (555) 234-5678",
-    "githubUsername": "alexrivera",
-    "linkedin": "https://linkedin.com/in/alexrivera",
-    "twitter": "https://twitter.com/alexrivera"
+    "email": "akshitamaryjohn@gmail.com",
+    "phone": "+1 (682) 406-8657",
+    "githubUsername": "Akshita1009",
+    "linkedin": "https://www.linkedin.com/in/akshita-john"
   },
   "siteConfig": {
     "domain": "",
-    "title": "Alex Rivera - Portfolio",
-    "description": "Creative Developer & Digital Designer Portfolio"
+    "title": "Akshita Mary John - Portfolio",
+    "description": "Product Owner Portfolio"
   }
 }
