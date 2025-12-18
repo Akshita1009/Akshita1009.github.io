@@ -229,7 +229,8 @@ async function loadExperience() {
                             </p>
                         </div>
                         <p class="experience-description">${exp.description}</p>
-                        ${exp.responsibilities ? `
+                        ${exp.responsibilities && exp.responsibilities.length > 0 ? `
+                            <h4 class="experience-achievements-title">Key Achievements</h4>
                             <ul class="experience-responsibilities">
                                 ${exp.responsibilities.map(resp => `<li>${resp}</li>`).join('')}
                             </ul>
