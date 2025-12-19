@@ -47,6 +47,11 @@
       "url": "https://www.linkedin.com/in/akshita-john",
       "platform": "LinkedIn",
       "icon": "fab fa-linkedin"
+    },
+    {
+      "url": "mailto:akshitamaryjohn@gmail.com",
+      "platform": "Email",
+      "icon": "fas fa-envelope"
     }
   ],
   "scrollIndicator": {
